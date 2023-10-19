@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1aaGSRAZWECJIQ7yMWOaTU3C1HsjwC8wRYTJtXNcSTUj9umcUtEGarCifz46ZZWqF34wu8Gf49DwKJ2m5zdKdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yassi\\Desktop\\Gestion de Vente des Cartes d'Abonnement\\Gestion de Vente des Cartes d'Abonnement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yassi\\.nuget\\packages\\sautinsoft.document\\5.2.2.16\\sautinsoft.document.5.2.2.16.nupkg.sha512",
+    "C:\\Users\\yassi\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}

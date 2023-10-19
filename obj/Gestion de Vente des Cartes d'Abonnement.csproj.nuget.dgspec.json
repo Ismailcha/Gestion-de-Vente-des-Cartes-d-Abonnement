@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yassi\\Desktop\\Gestion de Vente des Cartes d'Abonnement\\Gestion de Vente des Cartes d'Abonnement.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yassi\\Desktop\\Gestion de Vente des Cartes d'Abonnement\\Gestion de Vente des Cartes d'Abonnement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yassi\\Desktop\\Gestion de Vente des Cartes d'Abonnement\\Gestion de Vente des Cartes d'Abonnement.csproj",
+        "projectName": "Gestion de Vente des Cartes d'Abonnement",
+        "projectPath": "C:\\Users\\yassi\\Desktop\\Gestion de Vente des Cartes d'Abonnement\\Gestion de Vente des Cartes d'Abonnement.csproj",
+        "packagesPath": "C:\\Users\\yassi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yassi\\Desktop\\Gestion de Vente des Cartes d'Abonnement\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yassi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "sautinsoft.document": {
+              "target": "Package",
+              "version": "[5.2.2.16, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

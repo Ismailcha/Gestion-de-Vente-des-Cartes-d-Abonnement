@@ -1,0 +1,25 @@
+C:\Users\yassi\Desktop\GVCA\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion de Vente des Cartes d'Abonnement.csprojAssemblyReference.cache
+C:\Users\yassi\Desktop\GVCA\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion_de_Vente_des_Cartes_d_Abonnement.Form1.resources
+C:\Users\yassi\Desktop\GVCA\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion_de_Vente_des_Cartes_d_Abonnement.Properties.Resources.resources
+C:\Users\yassi\Desktop\GVCA\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion de Vente des Cartes d'Abonnement.csproj.GenerateResource.cache
+C:\Users\yassi\Desktop\GVCA\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion de Vente des Cartes d'Abonnement.csproj.CoreCompileInputs.cache
+C:\Users\yassi\Desktop\GVCA\Gestion de Vente des Cartes d'Abonnement\bin\Debug\Gestion de Vente des Cartes d'Abonnement.exe.config
+C:\Users\yassi\Desktop\GVCA\Gestion de Vente des Cartes d'Abonnement\bin\Debug\Gestion de Vente des Cartes d'Abonnement.exe
+C:\Users\yassi\Desktop\GVCA\Gestion de Vente des Cartes d'Abonnement\bin\Debug\Gestion de Vente des Cartes d'Abonnement.pdb
+C:\Users\yassi\Desktop\GVCA\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion de Vente des Cartes d'Abonnement.exe
+C:\Users\yassi\Desktop\GVCA\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion de Vente des Cartes d'Abonnement.pdb
+C:\Users\yassi\Desktop\GVCA\Gestion de Vente des Cartes d'Abonnement\bin\Debug\SautinSoft.Document.dll
+C:\Users\yassi\Desktop\GVCA\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion de Vente des Cartes d'Abonnement.csproj.CopyComplete
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion de Vente des Cartes d'Abonnement.csproj.AssemblyReference.cache
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion_de_Vente_des_Cartes_d_Abonnement.Form1.resources
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion_de_Vente_des_Cartes_d_Abonnement.Properties.Resources.resources
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion de Vente des Cartes d'Abonnement.csproj.GenerateResource.cache
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion de Vente des Cartes d'Abonnement.csproj.CoreCompileInputs.cache
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion de Vente des Cartes d'Abonnement.exe
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion de Vente des Cartes d'Abonnement.pdb
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\bin\Debug\Gestion de Vente des Cartes d'Abonnement.exe.config
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\bin\Debug\Gestion de Vente des Cartes d'Abonnement.exe
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\bin\Debug\Gestion de Vente des Cartes d'Abonnement.pdb
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\bin\Debug\SautinSoft.Document.dll
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\yassi\Desktop\Gestion de Vente des Cartes d'Abonnement\obj\Debug\Gestion de Vente des Cartes d'Abonnement.csproj.CopyComplete
